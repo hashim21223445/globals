@@ -51,7 +51,7 @@
 		"get-port": "^7.0.0",
 		"npm-run-all2": "^7.0.1",
 		"outdent": "^0.8.0",
-		"puppeteer": "^22.1.0",
+		"puppeteer": "^23.10.4",
 		"shelljs": "^0.8.5",
 		"tsd": "^0.31.1",
 		"type-fest": "^4.10.2",
